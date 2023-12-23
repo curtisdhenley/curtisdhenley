@@ -81,6 +81,7 @@ Completed a comprehensive .NET course with expertise in ASP.NET Core MVC and Boo
 ## Additional Info
 
 - 💡 Continuous learner and collaborator
+- - Participates in biweekly Data Structures and Algorithms study sessions
 - 💻 Check out more projects and details on [my portfolio](https://curtishenley.dev/#Challenges)
 
 Thanks for stopping by! Feel free to explore my projects and don't hesitate to reach out. Let's code something amazing together! 🚀
