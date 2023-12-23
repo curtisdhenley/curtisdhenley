@@ -8,6 +8,17 @@ Hey there! I'm Curtis Henley, a passionate Software Developer based in Saint Aug
 - 📧 Email: henleydcurtis@gmail.com
 - 📱 LinkedIn: [Curtis Henley](https://www.linkedin.com/in/curtisdhenley/)
 
+## Skills
+
+- **Programming Languages**: C#, JavaScript
+- **Frameworks**: ASP.NET Core, Bootstrap, Entity Framework, Vue.js
+- **Web Technologies**: CSS, HTML, Razor Pages
+- **Version Control - CI/CD**: Bitbucket, Git, GitHub
+- **Database**: MSSQL, PostgreSQL
+- **Agile Methodology**: SCRUM
+- **Tools**: Jira, Microsoft (MS) Office, Microsoft (MS) Teams, Postman, Slack, Swagger
+- **IDE**: Visual Studio (2022), Visual Studio Code
+
 ## Work Experience
 
 ### Dymeng Services
@@ -66,17 +77,6 @@ A secure contact management site with features like filtering and direct emailin
 🏢 Coder Foundry, Kernersville, NC (Remote)
 
 Completed a comprehensive .NET course with expertise in ASP.NET Core MVC and Bootstrap.
-
-## Skills
-
-- **Programming Languages**: C#, JavaScript
-- **Frameworks**: ASP.NET Core, Bootstrap, Entity Framework, Vue.js
-- **Web Technologies**: CSS, HTML, Razor Pages
-- **Version Control - CI/CD**: Bitbucket, Git, GitHub
-- **Database**: MSSQL, PostgreSQL
-- **Agile Methodology**: SCRUM
-- **Tools**: Jira, Microsoft (MS) Office, Microsoft (MS) Teams, Postman, Slack, Swagger
-- **IDE**: Visual Studio (2022), Visual Studio Code
 
 ## Additional Info
 
