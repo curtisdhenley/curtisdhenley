@@ -44,7 +44,7 @@ As a Junior Automation Engineer at Two Barrels, I honed my skills in automation 
 ## Projects
 
 ### StatTrack | Enterprise Project/Issue Tracking App
-🌐 [StatTrack](https://stattrack-production.up.railway.app/) (Live Demo)
+🌐 [StatTrack](https://stattrack-production.up.railway.app/) (Live App Demo)
 
 An enterprise-ready web app designed to streamline project workflows:
 
@@ -53,7 +53,7 @@ An enterprise-ready web app designed to streamline project workflows:
 - 💻 Tech Skills: C#, ASP.NET 7, Razor Pages, PostgreSQL, Entity Framework, HTML/CSS/JS
 
 ### Techture | Multi-tenant Blog Website
-🌐 [Techture](https://techture-production.up.railway.app/) (Live Demo)
+🌐 [Techture](https://techture-production.up.railway.app/) (Live App Demo)
 
 A blog website enabling engagement and interaction:
 
@@ -62,7 +62,7 @@ A blog website enabling engagement and interaction:
 - 💻 Tech Skills: C#, ASP.NET 7, Razor Pages, PostgreSQL, Entity Framework, HTML/CSS/JS
 
 ### LinkList | Secure Contact Management Site
-🌐 [LinkList](https://linklist-production.up.railway.app/) (Live Demo)
+🌐 [LinkList](https://linklist-production.up.railway.app/) (Live App Demo)
 
 A secure contact management site with features like filtering and direct emailing:
 
