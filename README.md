@@ -12,7 +12,7 @@ Hey there! I'm Curtis Henley, a passionate Software Developer based in Saint Aug
 
 - **Programming Languages**: C#, JavaScript
 - **Frameworks**: ASP.NET Core, Bootstrap, Entity Framework, Vue.js
-- **Web Technologies**: CSS, HTML, Razor Pages
+- **Web Technologies**: CSS, HTML, Razor Views
 - **Version Control - CI/CD**: Bitbucket, Git, GitHub
 - **Database**: MSSQL, PostgreSQL
 - **Agile Methodology**: SCRUM
@@ -50,7 +50,7 @@ An enterprise-ready web app designed to streamline project workflows:
 
 - 🚀 Project Goal: Create an intuitive way to flag, track, and resolve issues in an enterprise environment.
 - 🧰 Tools: Visual Studio 2022, PG Admin, VS Code
-- 💻 Tech Skills: C#, ASP.NET 7, Razor Pages, PostgreSQL, Entity Framework, HTML/CSS/JS
+- 💻 Tech Skills: C#, ASP.NET 7, Razor Views, PostgreSQL, Entity Framework, HTML/CSS/JS
 
 ### Techture | Multi-tenant Blog Website
 🌐 [Techture](https://techture-production.up.railway.app/) (Live App Demo)
@@ -59,7 +59,7 @@ A blog website enabling engagement and interaction:
 
 - 🚀 Project Goal: Create an intuitive and engaging website for multi-author blogging.
 - 🧰 Tools: Visual Studio 2022, VS Code, PG Admin
-- 💻 Tech Skills: C#, ASP.NET 7, Razor Pages, PostgreSQL, Entity Framework, HTML/CSS/JS
+- 💻 Tech Skills: C#, ASP.NET 7, Razor Views, PostgreSQL, Entity Framework, HTML/CSS/JS
 
 ### LinkList | Secure Contact Management Site
 🌐 [LinkList](https://linklist-production.up.railway.app/) (Live App Demo)
@@ -68,7 +68,7 @@ A secure contact management site with features like filtering and direct emailin
 
 - 🚀 Project Goal: Develop a secure contact management system.
 - 🧰 Tools: Visual Studio 2022, VS Code, PG Admin
-- 💻 Tech Skills: C#, ASP.NET 7, Razor Pages, PostgreSQL, Entity Framework, HTML/CSS/JS
+- 💻 Tech Skills: C#, ASP.NET 7, Razor Views, PostgreSQL, Entity Framework, HTML/CSS/JS
 
 ## Education
 
