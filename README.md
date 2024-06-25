@@ -21,9 +21,21 @@ Hey there! I'm Curtis Henley, a passionate Software Developer based in Saint Aug
 
 ## Work Experience
 
+### Fourth Gear
+📍 Daytona, FL (Remote)  
+📅 Contract: 04/2024 – 05/2024
+
+As a Software Developer at Fourth Gear, my responsibilities included:
+
+- 📊 Participated in daily scrum meetings to ensure the team stayed on target for each sprint.
+- 📝 Read and interpreted clients' functional requirements to build out specific features.
+- 🗄️ Developed and tested SQL queries using Microsoft SQL Server to pull data according to clients' functional requirements and transmitted data to the front end via JSON objects.
+- 📚 Authored comprehensive technical documentation to ensure processes were meticulously documented for future reference and replication.
+
+
 ### Dymeng Services
 📍 Saint Augustine, FL (On-Site)  
-📅 Full-time: 06/2023 - 08/2023
+📅 Contract: 06/2023 - 08/2023
 
 As a Software Developer at Dymeng, I was involved in creating impactful solutions:
 
