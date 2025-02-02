@@ -21,27 +21,32 @@ Hey there! I'm Curtis Henley, a passionate Software Developer based in Saint Aug
 
 ## Work Experience
 
-### Fourth Gear
-📍 Daytona, FL (Remote)  
-📅 Contract: 04/2024 – 05/2024
+### Dexian
+📍 Tampa, FL (Contract)  
+📅 September 2024 – Present  
 
-As a Software Developer at Fourth Gear, my responsibilities included:
+As an IT Consultant for Dexian, I implemented the following:
 
-- 📊 Participated in daily scrum meetings to ensure the team stayed on target for each sprint.
-- 📝 Read and interpreted clients' functional requirements to build out specific features.
-- 🗄️ Developed and tested SQL queries using Microsoft SQL Server to pull data according to clients' functional requirements and transmitted data to the front end via JSON objects.
-- 📚 Authored comprehensive technical documentation to ensure processes were meticulously documented for future reference and replication.
+- 🏗 **Background Service Development**: Created a **C#** background service using **WCF** to process batch files by type, integrating with an **OCR system** to streamline document handling.  
+- 📂 **Data Extraction & Transformation**: Designed a service in collaboration with a **software architect** to:  
+  - Read and extract information from **batch XML files**.  
+  - Convert raw data into a **standardized document format**.  
+  - Populate the **database** with newly formatted data.  
+- 📚 **Technical Documentation**: Authored **comprehensive documentation** and **flowcharts** to illustrate program functionality and workflows.  
+- 🛠 **Issue Resolution**: Managed and resolved **batch file processing issues** via ticketing system, ensuring efficient and accurate data handling.
 
+### Robert Half
+📍 Saint Augustine, FL (Contract)
+📅 June 2023 – May 2024
 
-### Dymeng Services
-📍 Saint Augustine, FL (On-Site)  
-📅 Contract: 06/2023 - 08/2023
+As an IT Consultant for Robert Half, my responsibilities included:
 
-As a Software Developer at Dymeng, I was involved in creating impactful solutions:
-
-- 🖥️ Utilized C# and .NET MVC for a robust backend solution, reducing system errors by 15%.
-- 🚀 Optimized data performance with MSSQL, resulting in a 50% decrease in processing time.
-- 🌐 Implemented Vue.js for faster frontend rendering, reducing page load time by 25%.
+- 🏗 Backend Development: Designed and implemented features using C# and .NET MVC, reducing system errors by 15%.
+- 📊 Database Management: Developed and optimized SQL queries using Microsoft SQL Server, ensuring accurate data retrieval and improving processing time.
+- 🚀 Frontend Optimization: Integrated Vue.js to enhance frontend performance, reducing page load time by 25%.
+- 🔍 Testing & Validation: Conducted manual and API endpoint testing using Postman to ensure compliance with functional requirements.
+- 📅 Agile Collaboration: Participated in daily scrum meetings to align development efforts with client needs.
+- 📚 Documentation & Knowledge Sharing: Authored technical documentation to facilitate process replication and future enhancements.
 
 ### Two Barrels
 📍 Spokane, WA (Remote)  
