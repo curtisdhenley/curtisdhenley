@@ -21,19 +21,27 @@ Hey there! I'm Curtis Henley, a passionate Software Developer based in Saint Aug
 
 ## Work Experience
 
-### Dexian
-📍 Tampa, FL (Contract)  
-📅 September 2024 – Present  
+### Hillsborough County Clerk of Circuit Court & Comptroller
+📍 Tampa, FL  
+📅 October 2024 – Present  
 
-As an IT Consultant for Dexian, I implemented the following:
+As a Technical Specialist for Hillsborough County Clerk of Circuit Court & Comptroller, I implemented the following:
 
-- 🏗 **Background Service Development**: Created a **C#** background service using **WCF** to process batch files by type, integrating with an **OCR system** to streamline document handling.  
-- 📂 **Data Extraction & Transformation**: Designed a service in collaboration with a **software architect** to:  
-  - Read and extract information from **batch XML files**.  
-  - Convert raw data into a **standardized document format**.  
-  - Populate the **database** with newly formatted data.  
-- 📚 **Technical Documentation**: Authored **comprehensive documentation** and **flowcharts** to illustrate program functionality and workflows.  
-- 🛠 **Issue Resolution**: Managed and resolved **batch file processing issues** via ticketing system, ensuring efficient and accurate data handling.
+- **.NET Framework 4.5 Maintenance & Enhancements**  
+  - Reduced recurring support tickets by **10–15%** through proactive debugging and stability improvements.  
+- **Legacy to Modern Migration**  
+  - Rebuilt an internal tool from **.NET Framework 4.5 → .NET 8** with a **Blazor front end**, cutting manual processing time by **20%** and improving usability for non-technical staff.
+- **SQL Optimization**  
+  - Designed and optimized SQL scripts and stored procedures, improving **report generation speed by 25–30%**.
+- 🏗 **C# Background Service (WCF + OCR Integration)**  
+  - Developed a background service to process batch files by type, integrating with an OCR system and reducing document handling time by **40%**.
+- **XML Data Automation**  
+  - Collaborated with a software architect to automate data extraction from XML files, standardizing it into organizational formats and eliminating **90% of manual entry errors**.
+- 📚 **Technical Documentation**  
+  - Authored clear documentation and flowcharts outlining program functionality, reducing onboarding time for new developers by **15%**. 
+---
+📌 *This role highlights my experience in modernizing legacy systems, improving performance with .NET 8 and Blazor, and streamlining workflows with automation and database optimization.*
+
 
 ### Robert Half
 📍 Saint Augustine, FL (Contract)
